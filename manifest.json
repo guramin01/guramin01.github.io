@@ -1,0 +1,37 @@
+{
+    "name": "FOOTBAL-API",
+    "short_name": "FOOTBAL-API",
+    "description": "Aplikasi PWA SUBMISSION-2 FOOTBAL IRFAN",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#979ce8",
+    "theme_color": "#979ce8",
+    "icons": [
+        {
+            "src": "/icon/rest-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icon/rest-384.png",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icon/rest-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icon/rest-96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+  "name": "FOOTBAL - API - IRFAN",
+  "gcm_sender_id": "1045164443585"
+}
